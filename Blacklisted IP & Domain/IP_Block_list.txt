@@ -1,4 +1,4 @@
-##IP/Domain Blacklist##
+##IPDomain Blacklist##
 
 #------March 2022 ----
 awerguju.com
@@ -55,24 +55,24 @@ www.xn--80ajy8a.xn--80asehdb
 52.59.234.180
 70.36.102.35
 72.68.9.238
-http://103.145.255.9
-http://103.156.91.63
-http://107.174.138.191
-http://107.175.243.143
-http://162.158.85.19
-http://23.237.137.204
-http://52.78.165.165
-http://sub.duttyka.info
-http://www.acheivehealthmanagement.com
-https://access.365emailsauthentication.com
-https://colfersartori.com
-https://ipinformatizacao.com.br
-https://login.office-authentication.com
-https://ryansrainbow.org
-https://shameka06james.editorx.io
-https://supp0rtoffice.flamurilazi.com
-https://tromdx.quest
-https://vocalizeltd.co.uk
+103.145.255.9
+103.156.91.63
+107.174.138.191
+107.175.243.143
+162.158.85.19
+23.237.137.204
+52.78.165.165
+sub.duttyka.info
+www.acheivehealthmanagement.com
+access.365emailsauthentication.com
+colfersartori.com
+ipinformatizacao.com.br
+login.office-authentication.com
+ryansrainbow.org
+shameka06james.editorx.io
+supp0rtoffice.flamurilazi.com
+tromdx.quest
+vocalizeltd.co.uk
 
 ##---------------------------------------------
 ##May 2022##
@@ -146,23 +146,23 @@ weboculta.com
 45.76.181.158
 51.161.73.194
 64.227.100.222
-http://agricolaplc.ydns.eu
-http://kmodo.us
-http://qlrd.dreamtrips.online
-http://travel.pkn2.go.th
-http://tryst.cz
-http://vmxr.passionateguidestz.com
-https://diane-hanley.wellmapper.org
-https://email.wellmapper.org
-https://farahtryt.webnode.page
-https://frankoduate.s3.fr-par.scw.cloud
-https://glamourbeauty.net
-https://labanupsalereds.com/
-https://labotecgroup.com
-https://login.mcrosoftonline.com.respondermode.com
-https://metacopycenters.com/
-https://omegacham.s3.fr-par.scw.cloud
-https://webmailstorage.cloudsystem.buzz
+agricolaplc.ydns.eu
+kmodo.us
+qlrd.dreamtrips.online
+travel.pkn2.go.th
+tryst.cz
+vmxr.passionateguidestz.com
+diane-hanley.wellmapper.org
+email.wellmapper.org
+farahtryt.webnode.page
+frankoduate.s3.fr-par.scw.cloud
+glamourbeauty.net
+labanupsalereds.com
+labotecgroup.com
+login.mcrosoftonline.com.respondermode.com
+metacopycenters.com
+omegacham.s3.fr-par.scw.cloud
+webmailstorage.cloudsystem.buzz
 ##---------------------------------------------
 
 #-----Jul 2022---------
