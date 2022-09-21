@@ -1,5 +1,4 @@
 ##IPDomain Blacklist##
-
 #------March 2022 ----
 awerguju.com
 jyhsc.cc
