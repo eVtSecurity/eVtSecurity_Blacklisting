@@ -232,3 +232,31 @@ dns223.online.tj.cn
 
 ##Malware detection from SOC##
 185.157.221.247
+
+
+##----MAS Dec 2022 ---
+152.89.196.211
+103.149.137.124
+103.149.137.138
+103.149.137.192
+106.75.116.12
+125.77.172.224
+192.241.213.65
+221.2.155.199
+37.44.238.144
+37.44.238.217
+45.95.55.138
+159.223.205.82
+206.123.140.245
+52.187.50.165
+coloradobarman-forensicsapp.herokuapp.com
+mail.citroenbn.cz
+mail.abaexlogistics.com
+copunupo.ac.zm
+qtmepx1b5h.qtmepx1b5h.kalershrot.com
+boitontoyota.com
+rectificationserverless-config.herokuapp.com
+qtmepx1b5h.qtmepx1b5h.kalershrot.com
+coloradobarman-forensicsapp.herokuapp.com
+copunupo.ac.zm
+rectificationserverless-config.herokuapp.com
