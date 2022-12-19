@@ -1,5 +1,0 @@
-www.google.com
-google.com
-google.co.id
-google.com.sg
-*.google.*
