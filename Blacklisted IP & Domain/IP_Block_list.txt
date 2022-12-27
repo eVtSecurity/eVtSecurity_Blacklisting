@@ -265,3 +265,13 @@ rectificationserverless-config.herokuapp.com
 ##----From SOCaaS ---
 maxcdns.com
 track-selectmedia.com
+
+##----FINTEL-2022-1223-01---
+140.82.52.35
+217.69.10.255
+45.76.246.112
+216.128.146.38
+95.179.162.125
+192.248.176.138
+140.82.52.35
+45.32.144.71
