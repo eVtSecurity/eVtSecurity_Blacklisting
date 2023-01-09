@@ -306,9 +306,12 @@ track-selectmedia.com
  2colxb.tk
  www.bestcolonia.club
  103.133.107.162
- http://103.133.107.162
- https://mysingtel.egift-claim.sg.labelotomatikkapi.com
- http://208.67.105.179
- https://axxzvgh.gq
- https://nudoecrudobistro.it
- https://axxzvgh.gq
+ 103.133.107.162
+ mysingtel.egift-claim.sg.labelotomatikkapi.com
+ 208.67.105.179
+ axxzvgh.gq
+ nudoecrudobistro.it
+ axxzvgh.gq
+
+##----Intrusion Jan 2023---
+ 80.94.92.57
