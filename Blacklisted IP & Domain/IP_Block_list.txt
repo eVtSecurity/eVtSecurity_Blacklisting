@@ -1,6 +1,6 @@
-##IPDomain Blacklist##
+##IPDomainBlacklist##
 
-#------March 2022 ----
+#------March2022----
 awerguju.com
 jyhsc.cc
 mail.demetrology.com.my
@@ -75,7 +75,7 @@ tromdx.quest
 vocalizeltd.co.uk
 
 ##---------------------------------------------
-##May 2022##
+##May2022##
 aidspectacle.com
 antonscafebar.com
 awigglespouter.cam
@@ -112,7 +112,7 @@ www.effectivedisplayformats.com
 94.102.61.47
 
 ##---------------------------------------------
-##June 2022##
+##June2022##
 chobemaster.com
 creativeme.co.th
 cunicultura.es
@@ -165,7 +165,7 @@ omegacham.s3.fr-par.scw.cloud
 webmailstorage.cloudsystem.buzz
 ##---------------------------------------------
 
-#-----Jul 2022---------
+#-----Jul2022---------
 apfeltee.de
 login.loginmicrosoftonline365.net
 shigaxapo.com
@@ -213,7 +213,7 @@ weboculta.com
 51.161.73.194
 64.227.100.222
 
-##----Aug 2022 ---
+##----Aug2022---
 31.44.185.235
 academyforinternetresearch.org
 43.129.35.207
@@ -226,15 +226,15 @@ academyforinternetresearch.org
 dns223.online.tj.cn
 
 
-##Intrusion Source Detected from Firewall
+##IntrusionSourceDetectedfromFirewall
 2.57.122.98
 92.118.39.88
 
-##Malware detection from SOC##
+##MalwaredetectionfromSOC##
 185.157.221.247
 
 
-##----MAS Dec 2022 ---
+##----MASDec2022---
 152.89.196.211
 103.149.137.124
 103.149.137.138
@@ -262,7 +262,7 @@ copunupo.ac.zm
 rectificationserverless-config.herokuapp.com
 
 
-##----From SOCaaS ---
+##----FromSOCaaS---
 maxcdns.com
 track-selectmedia.com
 
@@ -277,41 +277,111 @@ track-selectmedia.com
 45.32.144.71
 
 ##----FINTEL-2022-1228-01---
- 200.124.71.6
- 106.75.3.35
- 85.31.44.156
- 87.251.75.108
- 92.255.85.183
- 45.143.200.118
- 109.206.243.17
- 141.255.166.2
- 35.80.12.160
- 73.77.136.16
- 174.72.248.226
- 67.163.16.208
- 66.240.205.34
- 185.122.204.30
- 73.64.27.170
- axxzvgh.gq
- www.re-curve.tech
- www.p-soils.com
- www.bussymake.info
- www.hongfei8888.com
- www.consumeanalysis.com
- www.motodesultan.online
- www.deckcork.com
- www.wowcolliving.online
- www.rajahparkhotelcebu.com
- nudoecrudobistro.it
- 2colxb.tk
- www.bestcolonia.club
- 103.133.107.162
- 103.133.107.162
- mysingtel.egift-claim.sg.labelotomatikkapi.com
- 208.67.105.179
- axxzvgh.gq
- nudoecrudobistro.it
- axxzvgh.gq
+200.124.71.6
+106.75.3.35
+85.31.44.156
+87.251.75.108
+92.255.85.183
+45.143.200.118
+109.206.243.17
+141.255.166.2
+35.80.12.160
+73.77.136.16
+174.72.248.226
+67.163.16.208
+66.240.205.34
+185.122.204.30
+73.64.27.170
+axxzvgh.gq
+www.re-curve.tech
+www.p-soils.com
+www.bussymake.info
+www.hongfei8888.com
+www.consumeanalysis.com
+www.motodesultan.online
+www.deckcork.com
+www.wowcolliving.online
+www.rajahparkhotelcebu.com
+nudoecrudobistro.it
+2colxb.tk
+www.bestcolonia.club
+103.133.107.162
+103.133.107.162
+mysingtel.egift-claim.sg.labelotomatikkapi.com
+208.67.105.179
+axxzvgh.gq
+nudoecrudobistro.it
+axxzvgh.gq
 
-##----Intrusion Jan 2023---
- 80.94.92.57
+##----IntrusionJan2023---
+80.94.92.57
+
+##----FINTEL-2023-0131-01---
+104.156.155.10
+123.58.1.5
+185.167.96.150
+185.220.205.196
+45.142.192.11
+45.148.10.81
+89.248.165.57
+94.102.61.47
+94.182.176.136
+104.244.72.8
+104.244.79.56
+107.189.13.136
+107.189.14.223
+107.189.3.155
+66.240.205.34
+8.219.250.113
+85.31.44.156
+85.31.44.178
+139.162.7.59
+139.162.7.59
+14.56.196.217
+143.244.50.176
+152.89.196.211
+193.35.18.162
+193.47.61.60
+59.3.64.13
+60.125.13.182
+85.31.44.156
+152.89.196.211
+62.233.50.179
+75.119.140.120
+79.124.62.106
+92.255.85.183
+104.244.76.7[.]
+107.189.14.223
+131.159.24.205
+143.244.50.176
+143.244.50.180
+185.81.157.136
+37.44.238.184
+66.240.205.34
+85.31.44.156
+85.31.44.178
+107.189.31.198
+152.89.196.211
+152.89.196.8
+ehappy.buzz
+linuxhint.cc
+live-acc-static.com
+pogothere.xyz
+pub.akadigital.vn
+rndskittytor.com
+ogoogle.com
+goggle.com
+m.reachmax.cn
+take-yourprizes.life
+078d9f6a6dc1.cdn-f.checkouttools.com
+0redire.com
+agapeministriesinternational.church
+almor.makitalatinamerican.com
+billowing-art-bc35.toge4lvuvpskbb37059.workers.dev
+fedeyl.com
+moreandfashion.com
+sc-folders-0utlook.web.app
+www.adminboxmail.cn
+www.annsenypro.shop
+www.eco-rasy.com
+www.portmart.online
