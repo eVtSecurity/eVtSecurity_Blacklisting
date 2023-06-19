@@ -541,3 +541,6 @@ snailthreatenedinvited.com
 60.2.120.26
 62.233.50.179
 94.102.61.47
+
+#----------Annex B FINTEL-2023-0601-01
+xxl17z.dnslog.cn
