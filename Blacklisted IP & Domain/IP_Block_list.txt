@@ -1085,3 +1085,27 @@ technikwunder.com
 39.65.152.176
 45.148.10.174
 64.62.156.55
+
+#Ongoing Malware Campaign Targeting Google Chrome and Microsoft Edge Browser Users#
+http://wincloudservice.com/apps/$uid
+http://sslwindows.com/apps/$uid
+securedatacorner.com
+Nvoptimie.com
+nvoptimizer.com
+Customsearchbar.me
+yoursearchbar.me
+activesearchbar.me
+msf-console.com
+msf-edge.com
+search-good.com
+Microsearch.me
+yglsearch.com
+qcomsearch.com
+laxsearch.com
+qtrsearch.com
+Safesearcheng.com
+simplenewtab.com
+Wonderstab.com
+searchnukes.com
+exyzsearch.com
+kondoserp1.com
