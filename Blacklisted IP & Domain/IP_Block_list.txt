@@ -986,7 +986,7 @@ www.qfs-capital.com
 95.214.53.99
 eopgupgdpopopfuupi.ddns.net
 hudukpgdgfytpddswq.ddns.net
-mdytreudsgurifedei.[ddns.net
+mdytreudsgurifedei.ddns.net
 suedxcapuertggando.ddns.net
 103.212.81.155
 139.99.23.9
@@ -1087,8 +1087,8 @@ technikwunder.com
 64.62.156.55
 
 #Ongoing Malware Campaign Targeting Google Chrome and Microsoft Edge Browser Users#
-http://wincloudservice.com/apps/$uid
-http://sslwindows.com/apps/$uid
+http://wincloudservice.com
+http://sslwindows.com
 securedatacorner.com
 Nvoptimie.com
 nvoptimizer.com
