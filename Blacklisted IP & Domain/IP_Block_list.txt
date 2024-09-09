@@ -1109,3 +1109,21 @@ Wonderstab.com
 searchnukes.com
 exyzsearch.com
 kondoserp1.com
+
+#Notable Cyber Threat Indicators from July - Aug 2024#
+cloud.tnewstraffic.com
+polyfill.io
+t.salesmatemail.net
+115.231.78.10
+141.98.83.197
+37.221.65.110
+45.128.232.22
+45.142.182.123
+45.148.10.202
+45.148.10.241
+45.148.10.251
+51.159.103.10
+66.240.205.34
+77.90.42.187
+91.238.181.23
+95.214.53.134
