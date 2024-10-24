@@ -1222,6 +1222,9 @@ wokseephishopty.net
 192.243.59.12
 23.200.24.65
 23.5.165.147
+gs.gszyi.com
+116.68.162.186
+
 
 #FINTEL updates from MAS (10 October 2024)#
 45.145.42.234
