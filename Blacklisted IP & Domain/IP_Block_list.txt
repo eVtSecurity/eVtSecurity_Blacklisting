@@ -52,6 +52,7 @@ market.contradecapital.com
 208.91.112.55
 139.45.197.108
 eexevaudraikair.net
+217.64.127.195
 
 
 #------March2022----
