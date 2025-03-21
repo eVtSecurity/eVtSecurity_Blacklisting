@@ -71,6 +71,9 @@ www.xiaohongshu.com
 edith.xiaohongshu.com
 maps1.shipdt.com
 maps3.shipdt.com
+*.alicdn.com
+alicdn.com
+edith.xiaohongshu.com
 
 
 #------March2022----
