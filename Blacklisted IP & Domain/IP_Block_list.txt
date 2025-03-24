@@ -75,8 +75,12 @@ alicdn.com
 edith.xiaohongshu.com
 *.xiaohongshu.com
 rec.xiaohongshu.com
+feed-42607.fedra.info
+feed-5556.fedra.info
+104.21.36.59
+172.67.186.99
 
-#------March2022----
+#------March2022----#
 awerguju.com
 jyhsc.cc
 mail.demetrology.com.my
