@@ -79,6 +79,17 @@ feed-42607.fedra.info
 feed-5556.fedra.info
 104.21.36.59
 172.67.186.99
+1.passfixx.com
+208.91.112.55
+eu.boxif.xyz
+eu.boxthis.xyz
+feed-42607.fedra.info
+feed-5556.fedra.info
+s.viiequgl.com
+us.boxif.xyz
+us.boxthis.xyz
+us.superfasti.co
+
 
 #------March2022----#
 awerguju.com
