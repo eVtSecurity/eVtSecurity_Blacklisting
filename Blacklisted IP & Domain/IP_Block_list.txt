@@ -63,17 +63,11 @@ sw.cowtpvi.com
 www.sg-bigpromo-76.com
 wx3.sinaimg.cn
 dm.video.weibocdn.com
-www.xiaohongshu.com
 tvax2.sinaimg.cn
-www.xiaohongshu.com
-edith.xiaohongshu.com
 maps1.shipdt.com
 maps3.shipdt.com
 *.alicdn.com
 alicdn.com
-edith.xiaohongshu.com
-*.xiaohongshu.com
-rec.xiaohongshu.com
 feed-42607.fedra.info
 feed-5556.fedra.info
 104.21.36.59
