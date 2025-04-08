@@ -66,8 +66,6 @@ dm.video.weibocdn.com
 tvax2.sinaimg.cn
 maps1.shipdt.com
 maps3.shipdt.com
-*.alicdn.com
-alicdn.com
 feed-42607.fedra.info
 feed-5556.fedra.info
 104.21.36.59
