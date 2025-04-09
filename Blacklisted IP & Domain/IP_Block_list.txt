@@ -85,6 +85,13 @@ c1026.dmpdmp.com
 video-sh.cloudvideocdn.taobao.com
 video-zb.cloudvideocdn.taobao.com
 154.47.23.111 
+43.159.234.61
+35.171.49.86
+54.70.28.180
+192.210.231.24
+54.209.131.199
+54.194.137.170
+sogou.com
 
 #------March2022----#
 awerguju.com
