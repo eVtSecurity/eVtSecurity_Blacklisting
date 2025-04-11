@@ -1682,3 +1682,8 @@ beef.softbyms.com
 194.85.251.73
 37.221.67.207
 66.240.205.34
+
+#MASNET Announcement: [FINTEL-2025-0409-01] Ransomware Incident Impacting Service Provider used by Financial Institutions#
+193.242.184.179
+199.127.62.140
+205.172.59.31
