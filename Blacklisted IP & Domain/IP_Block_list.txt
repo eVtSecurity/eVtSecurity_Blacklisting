@@ -124,6 +124,7 @@ cswapper.appspot.com
 178.162.217.107
 5.79.71.225
 85.17.31.122
+cdn.bootcdn.net
 
 
 #------March2022----#
