@@ -128,7 +128,28 @@ cdn.bootcdn.net
 163.181.81.122
 www.dmv.org
 js-agentnewrelic.com
+216.244.95.18
 
+#FINTEL-2025-0630-01#
+analytiwave.com
+goclouder.com
+nannyirrationalacquainted.com
+new.weatherplllatform.com
+ougeechimp.net
+somenth.bilitere.shop
+141.98.10.151
+66.240.205.34
+45.148.10.81
+141.98.10.151
+141.98.11.128
+141.98.11.137
+176.65.148.10
+193.143.1.76
+79.124.58.198
+79.124.58.198
+141.98.10.151
+66.240.205.34
+193.26.115.12
 
 
 
