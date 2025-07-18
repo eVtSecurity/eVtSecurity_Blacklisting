@@ -1,6 +1,8 @@
 ##IPDomainBlacklist##
 
 #SOCaaS#
+172.240.253.132
+nannyirrationalacquainted.com
 market.contradecapital.com
 bots.autoupdate.online
 documentworkspace.io
@@ -129,6 +131,7 @@ cdn.bootcdn.net
 www.dmv.org
 js-agentnewrelic.com
 216.244.95.18
+stunserver.org
 
 #Ongoing ClickFix Campaign#
 iplogger.co
