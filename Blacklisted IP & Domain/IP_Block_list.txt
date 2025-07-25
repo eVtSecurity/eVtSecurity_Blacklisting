@@ -1,6 +1,16 @@
 ##IPDomainBlacklist##
 
 #SOCaaS#
+163.181.81.122
+owsc.wynnresortsmacau.com
+kw.daggerchoke.shop
+23.109.121.59
+23.109.121.35
+23.109.135.156
+23.109.121.50
+23.109.135.28
+
+
 172.240.253.132
 nannyirrationalacquainted.com
 market.contradecapital.com
