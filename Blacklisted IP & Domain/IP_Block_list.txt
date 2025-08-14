@@ -1,6 +1,7 @@
 ##IPDomainBlacklist##
 
 #SOCaaS#
+theetheks.com
 163.181.81.122
 owsc.wynnresortsmacau.com
 kw.daggerchoke.shop
