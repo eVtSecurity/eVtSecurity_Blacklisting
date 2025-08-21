@@ -1,6 +1,15 @@
 ##IPDomainBlacklist##
 
 #SOCaaS#
+185.162.184.12
+46.232.211.168
+208.91.112.55
+cdn.jsdeliver.net
+139.45.197.243
+foomaque.net
+phoangaisool.com
+ectozoaquagga.top
+185.162.184.10
 theetheks.com
 163.181.81.122
 owsc.wynnresortsmacau.com
