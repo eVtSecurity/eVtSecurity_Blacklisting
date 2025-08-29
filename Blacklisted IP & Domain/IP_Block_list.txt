@@ -1,6 +1,7 @@
 ##IPDomainBlacklist##
 
 #SOCaaS#
+imgnews.ruanwen.com.cn
 185.162.184.12
 46.232.211.168
 208.91.112.55
