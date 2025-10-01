@@ -1982,3 +1982,14 @@ usrpubtrk.com
 49.36.223.91
 169.150.196.33
 90.191.167.6
+
+#FINTEL-2025-0930-01#
+cannonkit.com
+certifiedblob.com
+findcloudflare.com
+highratecpm.com
+updates.highendmark.com
+srv-pc.sogouzhuyin.com
+pitsensation.com
+185.94.111.1
+199.204.99.186
