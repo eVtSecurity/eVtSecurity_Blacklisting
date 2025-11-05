@@ -3,6 +3,11 @@
 
 
 #SOCaaS#
+118.107.44.62
+134.122.189.6
+cdn.staticfile.net
+cdn.staticfile.org
+vb.lobbecalm.com
 nutatedtriol.com
 144.31.193.106
 promiseallrace.com
