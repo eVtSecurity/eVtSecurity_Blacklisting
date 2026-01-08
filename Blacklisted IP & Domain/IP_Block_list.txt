@@ -60,7 +60,7 @@ cdnhorizon.nnmtools.com
 trackhorizon.nnmtools.com
 cdn.bootcss.com
 p.dtsan.net
-selfstock.10jqka.com.cn
+#selfstock.10jqka.com.cn removed due related to china trading app
 xfqh.cn
 cz1.quickcache.click
 farcivinage.shop
@@ -1531,7 +1531,6 @@ hooshoam.net
 grotchon.net
 stelronsi.net
 nucmagnotoal.com
-selfstock.10jqka.com.cn
 139.45.197.156
 139.45.197.238
 139.45.197.244
