@@ -2194,3 +2194,13 @@ pitsensation.com
 130.94.42.43
 165.154.255.115
 2401:c080:1000:3ad2:5400:6ff:fe85:d402
+
+#[MAS-Tx] New Circular Published: [FINTEL-2026-0901-01] Notable Cyber Threat Indicators for Jul - Aug 2026#
+96.62.214.79
+172.86.105.203
+3.112.224.125
+36.50.85.135
+202.155.12.51
+36.50.84.157
+45.8.47.87
+cloudynetwork.online
